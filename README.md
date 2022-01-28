@@ -1,2 +1,2 @@
 # codepath-prework
-Code Prework project
+Code prework project
